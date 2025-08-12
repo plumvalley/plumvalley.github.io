@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://plumvalley.co.uk/sitemap.xml
